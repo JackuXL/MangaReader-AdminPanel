@@ -1,0 +1,36 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.login-card {
+  width: 480px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.95);
+}
+
+.login-card .ant-card-head {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  background: transparent;
+  color: #333;
+  border-radius: 12px 12px 0 0;
+  padding-top: 32px;
+  border-bottom: none;
+}
+
+.login-card .ant-card-body {
+  padding: 40px;
+}
+
+.login-card .ant-input-lg {
+  font-size: 16px;
+  padding: 10px 11px;
+}
+

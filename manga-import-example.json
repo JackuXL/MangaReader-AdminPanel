@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Manga Title",
+    "oldName": "Original Title (in other language)",
+    "description": "Manga description/intro",
+    "coverImageUrl": "https://your-r2-domain.com/manga/covers/cover1.jpg",
+    "detailImages": [
+      "https://your-r2-domain.com/manga/details/detail1.jpg",
+      "https://your-r2-domain.com/manga/details/detail2.jpg"
+    ],
+    "author": "Author Name",
+    "slogan": "Manga tagline/slogan",
+    "isChoiceness": true,
+    "isRecommend": true,
+    "isNew": true,
+    "period": "Weekly",
+    "isPutaway": true,
+    "putawayTime": "2024-01-01T00:00:00",
+    "onlineTime": "2024-01-01T00:00:00",
+    "tendency": "1",
+    "country": "2",
+    "isFinish": "2",
+    "sortOrder": 1,
+    "tags": ["Action", "Adventure"],
+    "labels": ["Hot", "New"],
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "chapterNumber": 1,
+        "pageUrls": [
+          "https://your-r2-domain.com/manga/chapters/manga1/ch1/page1.jpg",
+          "https://your-r2-domain.com/manga/chapters/manga1/ch1/page2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Manga Title",
+    "oldName": "Original Title (in other language)",
+    "description": "Manga description/intro",
+    "coverImageUrl": "https://your-r2-domain.com/manga/covers/cover1.jpg",
+    "detailImages": [
+      "https://your-r2-domain.com/manga/details/detail1.jpg",
+      "https://your-r2-domain.com/manga/details/detail2.jpg"
+    ],
+    "author": "Author Name",
+    "slogan": "Manga tagline/slogan",
+    "isChoiceness": true,
+    "isRecommend": true,
+    "isNew": true,
+    "period": "Weekly",
+    "isPutaway": true,
+    "putawayTime": "2024-01-01T00:00:00",
+    "onlineTime": "2024-01-01T00:00:00",
+    "tendency": "1",
+    "country": "2",
+    "isFinish": "2",
+    "sortOrder": 1,
+    "tags": ["Action", "Adventure"],
+    "labels": ["Hot", "New"],
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "chapterNumber": 1,
+        "pageUrls": [
+          "https://your-r2-domain.com/manga/chapters/manga1/ch1/page1.jpg",
+          "https://your-r2-domain.com/manga/chapters/manga1/ch1/page2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Manga Title",
+    "oldName": "Original Title (in other language)",
+    "description": "Manga description/intro",
+    "coverImageUrl": "https://your-r2-domain.com/manga/covers/cover1.jpg",
+    "detailImages": [
+      "https://your-r2-domain.com/manga/details/detail1.jpg",
+      "https://your-r2-domain.com/manga/details/detail2.jpg"
+    ],
+    "author": "Author Name",
+    "slogan": "Manga tagline/slogan",
+    "isChoiceness": true,
+    "isRecommend": true,
+    "isNew": true,
+    "period": "Weekly",
+    "isPutaway": true,
+    "putawayTime": "2024-01-01T00:00:00",
+    "onlineTime": "2024-01-01T00:00:00",
+    "tendency": "1",
+    "country": "2",
+    "isFinish": "2",
+    "sortOrder": 1,
+    "tags": ["Action", "Adventure"],
+    "labels": ["Hot", "New"],
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "chapterNumber": 1,
+        "pageUrls": [
+          "https://your-r2-domain.com/manga/chapters/manga1/ch1/page1.jpg",
+          "https://your-r2-domain.com/manga/chapters/manga1/ch1/page2.jpg"
+        ]
+      }
+    ]
+  }
+]
